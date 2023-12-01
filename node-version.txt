@@ -1,0 +1,5 @@
+node -v 16.15.0
+
+mysql login
+laravel_ucrm
+password123
